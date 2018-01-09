@@ -24,6 +24,9 @@ http://www.freshjavabeans.com/fjb/rest/using-provider-for-dependency-injection/
 https://github.com/dropwizard/dropwizard/issues/1630
 https://stackoverflow.com/questions/35952773/access-httpservletrequest-from-an-authenticator-using-dropwizard/35953104#35953104
 
+Jersey Parameter Classes:
+---
+https://codahale.com/what-makes-jersey-interesting-parameter-classes/
 
 Logging:
 ---
