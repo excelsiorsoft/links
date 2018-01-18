@@ -32,4 +32,14 @@ Logging:
 ---
 https://logback.qos.ch/manual/mdc.html#autoMDC
 
+Test Jersey
+---
+https://github.com/tusharm/WebStub
+
+https://github.com/aharin/inproctester
+
+
+
+
+
 
