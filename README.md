@@ -46,6 +46,7 @@ https://github.com/aharin/inproctester
 
 http://www.markhneedham.com/blog/2013/07/28/jersey-client-testing-external-calls/
 
+https://dzone.com/articles/jersey-client-testing-external
 
 
 
