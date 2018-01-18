@@ -38,6 +38,7 @@ https://github.com/tusharm/WebStub
 
 https://github.com/aharin/inproctester
 
+http://www.markhneedham.com/blog/2013/07/28/jersey-client-testing-external-calls/
 
 
 
