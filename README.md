@@ -48,6 +48,7 @@ http://www.markhneedham.com/blog/2013/07/28/jersey-client-testing-external-calls
 
 https://dzone.com/articles/jersey-client-testing-external
 
+https://stackoverflow.com/questions/11005279/how-do-i-unit-test-code-which-calls-the-jersey-client-api
 
 
 
